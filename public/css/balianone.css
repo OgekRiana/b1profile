@@ -1,0 +1,103 @@
+.background-overlay{
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background-color: black;
+   opacity: 0.3;   
+}
+.img-title{
+	color:#FFFFFF;
+	font-size: 55px;
+	line-height: 220px;
+	text-align: center;
+	z-index: 0;
+	position:relative;
+	font-family: sans-serif;
+	text-shadow: 2px 2px #000000;
+}
+.footer{
+	background-color: #eaeaea;
+	height: 50px;
+	border-top: 4px solid #5ce78d;
+}
+.footer-text{
+	text-align: right;
+	font-family: sans-serif!important;
+	line-height: 50px;
+}
+.balian-img{
+	margin-bottom: 30px;
+}
+.balian-surf{
+	height: 230px;
+	background-image:url('../images/surf.jpeg');
+	position:relative;
+	background-position: center center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-bottom: 20px;
+}
+.balian-yoga{
+	height: 230px;
+	background-image:url('../images/beach.jpeg');
+	position:relative;
+	background-position: center center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-bottom: 20px;
+}
+.balian-sunset{
+	height: 230px;
+	background-image:url('../images/sunset.jpeg');
+	position:relative;
+	background-position: center center;
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-bottom: 20px;
+}
+.rate{
+	text-align: left;
+	padding-left: 75px;
+	font-size: 30px;
+	font-family: sans-serif;
+	margin-bottom: 20px;	
+}
+.rate-block{
+	background-color: #eaeaea;
+}
+.standard-rate{
+	background-color: #5ce78d;
+	border: 4px solid #ffffff;
+	height: 200px;
+	color: #ffffff;
+}
+.special-offer{
+	background-color: #802b00;
+	border: 4px solid #ffffff;
+	color: #ffffff;
+	margin: 15px 15px 15px 15px;
+	padding: 20px 20px 20px 20px;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+.special{
+	background-color: #802b00;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.balian-map{
+	margin: 0px 0 20px 0;
+	border: 1px solid #babaab;
+}
+.contact{
+	text-align: left;
+	font-size: 30px;
+	font-family: sans-serif;
+	margin: 40px 0 20px 0;	
+}
+.address{
+	font-size: 20px;
+}
+

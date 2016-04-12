@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: BalianOne
+        psr4_prefix: BalianOne
+        src_path: app
